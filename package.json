@@ -1,0 +1,19 @@
+{
+  "name": "@azam.ikram.educative/hello-world",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azam-educative/hello-world.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/azam-educative/hello-world/issues"
+  },
+  "homepage": "https://github.com/azam-educative/hello-world#readme"
+}
