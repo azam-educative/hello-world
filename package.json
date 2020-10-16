@@ -10,10 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/azam-educative/hello-world.git"
   },
-  "author": "",
+  "author": "Azam Ikram",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/azam-educative/hello-world/issues"
   },
-  "homepage": "https://github.com/azam-educative/hello-world#readme"
+  "homepage": "https://github.com/azam-educative/hello-world#readme",
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com/"
+  }
 }
